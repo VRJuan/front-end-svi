@@ -1,6 +1,6 @@
 # front-end-svi
 
-This template should help get you started developing with Vue 3 in Vite.
+Pasos para instalar el front-end
 
 ## Recommended IDE Setup
 
@@ -10,19 +10,23 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Nota
+
+Usar las version indicadas en el package.json
+
+## Configuracion del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Para desarrollar
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### en produccion
 
 ```sh
 npm run build
